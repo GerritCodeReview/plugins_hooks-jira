@@ -2,6 +2,193 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAG8H////Y\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "You can remove sample",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H////U\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraClient.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "Why are you catching an exception here? If this code is here to test, a method like verifyConnectivity would be better.",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H////Q\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraClientSession.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "whitespace errors in file",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H////I\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraPluginConfig.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "whitespace errors in file",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H////E\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraPluginConfig.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "nit: space after if",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H////A\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraPluginConfig.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "Suggestion getDefaultString",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H///+8\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "This matches TEST-0 which is not valid, [A-Z][A-Z]+-[1-9][0-9]*",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H///+0\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "why catching \u0027Exception? Also the whole body of the function is in try block? Can you please fine-grain.",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H///+4\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "whitespace errors in file",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H///+w\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "nit: we always use curly braces",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG8H///+s\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1010030
+      },
+      "writtenOn": "2012-06-25T14:25:15Z",
+      "side": 1,
+      "message": "-dev-test.git?",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAG93////0\u003d",
         "filename": "src/main/resources/Documentation/config.md",
         "patchSetId": 1
