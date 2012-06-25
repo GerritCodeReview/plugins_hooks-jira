@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAG93////0\u003d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-06-25T02:16:46Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG93////8\u003d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-06-25T02:16:46Z",
+      "side": 1,
+      "message": "extra -\u003e extract",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG93////w\u003d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-06-25T02:16:46Z",
+      "side": 1,
+      "message": "- \"Once a Git comment\" -\u003e \"Once a Git commit\"\n- \"the Jira issue ID\"",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG93////4\u003d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-06-25T02:16:46Z",
+      "side": 1,
+      "message": "back on -\u003e back to",
+      "revId": "b042885c9b3dbe1f82bbcbe330530ddd014fbe63",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
