@@ -50,6 +50,24 @@
       "revId": "2d28a59e7a25ef9a4322e368dfca305446ab5c86",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAG93////M\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-06-26T00:42:45Z",
+      "side": 1,
+      "message": "Sorry, ignore that.  It seems to be correct as it is. \n\n  \u003csetting id\u003d\"org.eclipse.jdt.core.formatter.wrap_before_binary_operator\" value\u003d\"true\"/\u003e",
+      "parentUuid": "AAAG93////U\u003d",
+      "revId": "2d28a59e7a25ef9a4322e368dfca305446ab5c86",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
