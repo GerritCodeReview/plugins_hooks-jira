@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAHB3///90\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-06-27T20:33:12Z",
+      "side": 1,
+      "message": "s/to back to/to navigate back to the",
+      "revId": "3800e931f23dd2ea4dcd2a727f1fddcf0a87903e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAHB3///9o\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-06-27T20:33:12Z",
+      "side": 1,
+      "message": "Why to build a new repository here? Do you want to open the existing repository? Then better get LocalDiskRepositoryManager injected and call the openRepository(...) method. Also after opening a repository don\u0027t forget to close it in a finally block.",
+      "revId": "3800e931f23dd2ea4dcd2a727f1fddcf0a87903e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAHB3///9s\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-06-27T20:33:12Z",
+      "side": 1,
+      "message": "my compiler complaints that the getNewObjectId() method doesn\u0027t exist",
+      "revId": "3800e931f23dd2ea4dcd2a727f1fddcf0a87903e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAHB3///9w\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-06-27T20:33:12Z",
+      "side": 1,
+      "message": "Should this message be defined in a .properties file so that it is translatable?",
+      "revId": "3800e931f23dd2ea4dcd2a727f1fddcf0a87903e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAHB3///9k\u003d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2012-06-27T20:33:12Z",
+      "side": 1,
+      "message": "Is this referenced from anywhere?",
+      "revId": "3800e931f23dd2ea4dcd2a727f1fddcf0a87903e",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
