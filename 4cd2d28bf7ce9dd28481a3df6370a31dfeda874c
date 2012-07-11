@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAHLn///7g\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraClientSession.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-07-11T09:10:16Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "4cd2d28bf7ce9dd28481a3df6370a31dfeda874c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
