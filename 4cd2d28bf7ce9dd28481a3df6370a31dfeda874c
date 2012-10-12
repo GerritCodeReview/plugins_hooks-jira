@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAKIH///9c\u003d",
+        "filename": "pom.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-10-12T11:57:24Z",
+      "side": 1,
+      "message": "I need to add maven-compiler-plugin according to [1] otherwise I get the error:\n\n annotations are not supported in -source 1.3\n\n[1] http://www.mkyong.com/maven/annotations-are-not-supported-in-source-1-3-maven/",
+      "revId": "4cd2d28bf7ce9dd28481a3df6370a31dfeda874c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAHLn///7g\u003d",
         "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/JiraClientSession.java",
         "patchSetId": 8
@@ -13,6 +30,23 @@
       "writtenOn": "2012-07-11T09:10:16Z",
       "side": 1,
       "message": "Whitespace",
+      "revId": "4cd2d28bf7ce9dd28481a3df6370a31dfeda874c",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAKIH///9g\u003d",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/hooks/jira/RefUpdated.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-10-12T11:57:24Z",
+      "side": 1,
+      "message": "I\u0027m getting a compilation error on this line.  If I change it to `getRefName()` it builds, but I\u0027m not sure if that\u0027s the correct solution.  It\u0027s the only method in the `Update` interface though...\n\nI\u0027ll upload a patch soon.",
       "revId": "4cd2d28bf7ce9dd28481a3df6370a31dfeda874c",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
