@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAKbX///8o\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2012-10-18T15:48:54Z",
+      "side": 1,
+      "message": "Typo. SNAPHOT -\u003e SNAPSHOT",
+      "revId": "0526114ad992a7d8396ce0534cf50a4574a781dd",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
