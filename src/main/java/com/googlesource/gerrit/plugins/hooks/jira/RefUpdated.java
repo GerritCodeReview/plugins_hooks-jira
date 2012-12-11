@@ -14,7 +14,6 @@
 
 package com.googlesource.gerrit.plugins.hooks.jira;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -23,7 +22,6 @@ import org.apache.xmlrpc.XmlRpcException;
 import org.eclipse.jgit.lib.ObjectId;
 import org.eclipse.jgit.lib.PersonIdent;
 import org.eclipse.jgit.lib.Repository;
-import org.eclipse.jgit.lib.RepositoryBuilder;
 import org.eclipse.jgit.revwalk.RevCommit;
 import org.eclipse.jgit.revwalk.RevWalk;
 import org.slf4j.Logger;
@@ -41,7 +39,6 @@ class RefUpdated implements GitReferenceUpdatedListener {
       .getLogger(GitReferenceUpdatedListener.class);
 
   private final JiraClient jiraRpc;
-  private final File gitDir;
   private final LocalDiskRepositoryManager repositoryManager;
   private Pattern commentPattern;
   private Pattern issuePattern = Pattern.compile("[A-Z][A-Z]+-[1-9][0-9]*");
@@ -51,7 +48,6 @@ class RefUpdated implements GitReferenceUpdatedListener {
   RefUpdated(final JiraClient jiraRpc, JiraPluginConfig config,
       LocalDiskRepositoryManager repositoryManager) {
     this.jiraRpc = jiraRpc;
-    this.gitDir = config.gitBasePath;
     this.commentPattern = Pattern.compile(config.issueRegex);
     this.gitwebUrl = config.gitwebUrl;
     this.repositoryManager = repositoryManager;
