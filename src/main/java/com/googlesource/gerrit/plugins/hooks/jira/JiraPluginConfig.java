@@ -19,8 +19,6 @@ import java.net.URL;
 
 import org.eclipse.jgit.api.errors.InvalidConfigurationException;
 import org.eclipse.jgit.lib.Config;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import com.google.common.base.Objects;
 import com.google.gerrit.server.config.GerritServerConfig;
@@ -30,8 +28,6 @@ import com.google.inject.Singleton;
 
 @Singleton
 public class JiraPluginConfig {
-  private static final Logger log = LoggerFactory.getLogger(JiraPluginConfig.class);
-
   private final Config config;
   private final File gerritSite;
 
