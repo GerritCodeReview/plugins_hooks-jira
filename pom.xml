@@ -27,6 +27,7 @@ limitations under the License.
   <name>Gerrit - Jira support</name>
   
   <modules>
+    <module>hooks-bugzilla</module>
     <module>hooks-its</module>
     <module>hooks-jira</module>
   </modules>

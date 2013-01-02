@@ -17,10 +17,10 @@ package com.googlesource.gerrit.plugins.hooks.its;
 import com.google.gerrit.pgm.init.InitStep;
 import com.google.gerrit.pgm.init.Section;
 import com.google.gerrit.pgm.util.ConsoleUI;
-import com.google.gerrit.server.config.FactoryModule;
-import com.google.inject.Injector;
 
 public class InitIts implements InitStep {
+
+  public static String COMMENT_LINK_SECTION = "commentLink";
 
   public static enum YesNoEnum {
     Y, N;

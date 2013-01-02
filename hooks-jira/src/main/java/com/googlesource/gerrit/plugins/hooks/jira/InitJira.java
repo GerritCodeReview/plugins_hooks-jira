@@ -34,7 +34,6 @@ import com.googlesource.gerrit.plugins.hooks.validation.ItsAssociationPolicy;
 class InitJira extends InitIts implements InitStep {
   private static final Logger log = LoggerFactory.getLogger(InitJira.class);
   private static final String JIRA_SECTION = "jira";
-  private static final String COMMENT_LINK_SECTION = "commentLink";
   private final ConsoleUI ui;
   private final Factory sections;
   private Section jira;
