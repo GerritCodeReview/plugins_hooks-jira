@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "O1C6ph.U",
+        "filename": ".gitignore",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-01-25T11:46:21Z",
+      "side": 1,
+      "message": "In other plugins (e.g. replication plugin) we only ignore\n  /.settings/org.maven.ide.eclipse.prefs\n  /.settings/org.eclipse.m2e.core.prefs\nand not the complete settings folder.",
+      "revId": "9e09ca14f46174d6000402dad31898e2b576b3f4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
