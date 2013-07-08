@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "27345006_6174b694",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-07-08T01:01:48Z",
+      "side": 1,
+      "message": "What about `commentOnFirstLinkedPatchSetCreated`?",
+      "revId": "01f946d7d37667b6e9cd226675640ff07828d75a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
