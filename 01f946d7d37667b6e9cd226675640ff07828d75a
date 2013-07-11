@@ -52,6 +52,24 @@
       "revId": "01f946d7d37667b6e9cd226675640ff07828d75a",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c71b7426_b6e7a864",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1011927
+      },
+      "writtenOn": "2013-07-11T11:53:56Z",
+      "side": 1,
+      "message": "Sorry, I\u0027d looked at stable-2.6 branch instead of master. There were 2 missing: commentOnChangeCreated and commentOnFirstLinkedPatchSetCreated",
+      "parentUuid": "677ba837_6b22c1b2",
+      "revId": "01f946d7d37667b6e9cd226675640ff07828d75a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
