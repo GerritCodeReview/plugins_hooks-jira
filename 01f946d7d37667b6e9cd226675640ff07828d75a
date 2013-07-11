@@ -34,6 +34,24 @@
       "revId": "01f946d7d37667b6e9cd226675640ff07828d75a",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "677ba837_6b22c1b2",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-07-11T00:47:02Z",
+      "side": 1,
+      "message": "The option exists in hooks-its",
+      "parentUuid": "a7fe80ba_65fc06f2",
+      "revId": "01f946d7d37667b6e9cd226675640ff07828d75a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
