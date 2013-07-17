@@ -24,14 +24,14 @@ SUGGESTED
 	 a warning message is displayed as a suggestion on the client.
 
 OPTIONAL
-:	 Issues-ids are liked when found on git commit message, no warning are
+:	 Issues-ids are linked when found on git commit message, no warning are
 	 displayed otherwise.
 
 Example:
 
     [commentLink "Jira"]
     match = (\\[[A-Z][A-Z]+-[1-9][0-9]*\\])
-    html = "<a href=\"http://myjira.com/browse/$1\">$1</a>"
+    html = "<a href=\"http://jira.lmitsoftware.com/browse/$1\">$1</a>"
     association = SUGGESTED
 
 Once a Git commit with a comment link is detected, the Jira issue ID
@@ -47,8 +47,8 @@ are required in your gerrit.config / secure.config under the [jira] section.
 Example:
 
     [jira]
-    url=http://myjira.com
-    username=jirauser
+    url=http://jira.lmitsoftware.com
+    username=admin
     passsword=jirapass
 
 Jira credentials and connectivity details are asked and verified during the Gerrit init.
