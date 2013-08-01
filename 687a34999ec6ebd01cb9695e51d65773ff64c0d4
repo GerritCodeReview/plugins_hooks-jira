@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b371678e_34f8d0fb",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-08-01T03:32:04Z",
+      "side": 1,
+      "message": "s/warning/warnings",
+      "revId": "687a34999ec6ebd01cb9695e51d65773ff64c0d4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9312a30c_736400bc",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-08-01T03:32:04Z",
+      "side": 1,
+      "message": "Would it be better to change all these references to something generic like \"example.com\" rather than an actual site?",
+      "revId": "687a34999ec6ebd01cb9695e51d65773ff64c0d4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9312a30c_536104aa",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-08-01T03:32:04Z",
+      "side": 1,
+      "message": "s/passsword/password",
+      "revId": "687a34999ec6ebd01cb9695e51d65773ff64c0d4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
