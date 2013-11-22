@@ -69,6 +69,24 @@
       "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3e58e519_6ffa91ec",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-11-22T07:05:12Z",
+      "side": 1,
+      "message": "\"Gerrit state change type on which the action will be triggered\" might be better.\n\n\"change-action\" is not a very good name for this field.",
+      "parentUuid": "5e53d9fc_7096f07a",
+      "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
