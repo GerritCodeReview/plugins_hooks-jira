@@ -87,6 +87,24 @@
       "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7e4edd57_118f6c60",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-11-22T07:55:40Z",
+      "side": 1,
+      "message": "I agree that \"change-action\" is confusing, I\u0027m renaming it to \"state-change-type\". The actual field is just called \"change\" which is also bad, but renaming it would be incompatible...\n\nDone.",
+      "parentUuid": "3e58e519_6ffa91ec",
+      "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
