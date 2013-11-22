@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9e49d14f_922c3cb4",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-11-22T00:46:56Z",
+      "side": 1,
+      "message": "Change the comma to a period.",
+      "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fe39edb4_cdff09d6",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-11-22T00:46:56Z",
+      "side": 1,
+      "message": "\"Action to be performed on the Gerrit change.  Possible values ...\"",
+      "revId": "5ccb829c08528cbf6744970aa9dd94b0f4f6a41a",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
