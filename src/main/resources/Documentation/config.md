@@ -29,6 +29,12 @@ If child projects must not be allowed to disable the Jira integration
 a project can enforce the Jira integration for all child projects by
 setting `plugin.jira.enabled` to `enforced`.
 
+On the project info screen there is a dropdown list for the
+`plugin.jira.enabled` parameter which offers the values `true`,
+`false`, `enforced` and `INHERIT`. Project owners can change this
+parameter and save it. If the Jira integration is enforced by a parent
+project the dropdown list is disabled.
+
 Comment links
 ----------------
 
