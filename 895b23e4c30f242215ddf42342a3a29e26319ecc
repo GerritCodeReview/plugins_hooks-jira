@@ -22,6 +22,30 @@
       "revId": "895b23e4c30f242215ddf42342a3a29e26319ecc",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "83d09a10_c1f68248",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-12-02T15:49:24Z",
+      "side": 1,
+      "message": "Ah, forgot to remove this here.\n\nDone",
+      "parentUuid": "03174a8c_65b846ae",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 44
+      },
+      "revId": "895b23e4c30f242215ddf42342a3a29e26319ecc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
