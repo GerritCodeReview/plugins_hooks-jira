@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "43bf82de_379f5878",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-12-05T08:44:25Z",
+      "side": 1,
+      "message": "Remove this bit.",
+      "range": {
+        "startLine": 38,
+        "startChar": 57,
+        "endLine": 39,
+        "endChar": 4
+      },
+      "revId": "39aca8b9b4817cfd58632efd4a29f08f3c0e1171",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
