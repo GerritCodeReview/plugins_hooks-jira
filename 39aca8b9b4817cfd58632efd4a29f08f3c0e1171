@@ -22,6 +22,29 @@
       "revId": "39aca8b9b4817cfd58632efd4a29f08f3c0e1171",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "63bac6ef_78bca1ef",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2013-12-05T09:06:05Z",
+      "side": 1,
+      "message": "How about:\n\nJira integration can be limited to specific branches.  The branches may be configured using explicit branch names, ref patterns, or regular expressions.  Multiple branches may be specified.",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 21
+      },
+      "revId": "39aca8b9b4817cfd58632efd4a29f08f3c0e1171",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
