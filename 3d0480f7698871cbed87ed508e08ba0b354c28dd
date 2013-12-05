@@ -46,6 +46,30 @@
       "revId": "3d0480f7698871cbed87ed508e08ba0b354c28dd",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c3b1b20e_1b959b6d",
+        "filename": "src/main/resources/Documentation/config.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1003935
+      },
+      "writtenOn": "2013-12-05T08:46:03Z",
+      "side": 1,
+      "message": "On a second thought, should it rather be:\n  certain branches, one or many refs, ...\n?\n\nWhat is meant it that the value for \u0027plugins.jira.branch\u0027 can be a ref (e.g. \"refs/heads/master\"), a ref pattern (e.g. \"refs/heads/*\") or a regular expression (e.g. \"^refs/heads/stable-.*\")",
+      "parentUuid": "839c1a85_0163eaf4",
+      "range": {
+        "startLine": 38,
+        "startChar": 33,
+        "endLine": 38,
+        "endChar": 66
+      },
+      "revId": "3d0480f7698871cbed87ed508e08ba0b354c28dd",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
